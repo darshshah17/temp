@@ -1,7 +1,5 @@
 # Vibe
 
-This project is a Flask-based backend for the Vibe application.
-
 ## Setup
 
 1.  Clone the repository.
