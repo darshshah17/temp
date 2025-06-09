@@ -1,2 +1,12 @@
-vibeVenv/ 
-node_modules/ 
+# Environments
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+*.h5
+*.keras
+node_modules/
+vibeVenv/
+.DS_Store 
